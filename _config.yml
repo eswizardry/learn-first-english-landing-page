@@ -14,7 +14,6 @@ app_icon                                  : # assets/appicon.png                
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Let's learn English with beautiful flashcards and sounds! 500+ Words & Pictures!.
-
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -35,41 +34,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Flashcard
+    description                           : Let's learn English with beautiful flashcards and sounds! 500+ Words & Pictures!
+    fontawesome_icon_name                 : picture-o
+
+  - title                                 : Design for Kids
+    description                           : The app is suitable for children (or even adults new to English) to learn the first English vocabulary with beautiful and fun flashcards!
+    fontawesome_icon_name                 : child
+
+  - title                                 : Sound Support
+    description                           : The App is designed to teach kids new words through beautiful pictures and sound.
+    fontawesome_icon_name                 : music
+
+  - title                                 : Games
+    description                           : Learning game to test your skills
+    fontawesome_icon_name                 : gamepad
+
+  - title                                 : Animation
+    description                           : Tap on the card for fun sound and animation!
     fontawesome_icon_name                 : magic
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easy to use
+    description                           : The App easy and safe to use by selecting a category to review flashcards.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : #Smart App Banner
+    description                           : #Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : #arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : #Social Links
+    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : #link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : #FontAwesome Support
+    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : #info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -86,7 +85,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
