@@ -1,15 +1,13 @@
 ---
-layout: post
-title: "Privacy Policy"
+layout: page
+title: Privacy Policy
 include_in_header: false
-comments: False
-description: "Privacy Policy - Learn First English: Kids vocabulary flashcards"
-tags:
-- privacy
-- term
 ---
 
-**Privacy Policy**
+**Last updated**  
+February 18 2023
+
+# Privacy Policy
 
 esWizardry built the Learn First English: Kids vocabulary flashcards app as a Freemium app. This SERVICE is provided by esWizardry at no cost and is intended for use as is.
 
