@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Flashcard
     description                           : Let's learn English with beautiful flashcards and sounds! 500+ Words & Pictures!
-    fontawesome_icon_name                 : picture-o
+    fontawesome_icon_name                 : bolt
 
   - title                                 : Design for Kids
     description                           : The app is suitable for children (or even adults new to English) to learn the first English vocabulary with beautiful and fun flashcards!
@@ -81,7 +81,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/cover.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
