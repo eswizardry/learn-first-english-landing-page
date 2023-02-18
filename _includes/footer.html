@@ -1,6 +1,9 @@
 <footer>
 	{% if site.your_name %}
-	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
+	<p class="footerText">Made with <span class="fa-stack fa-1x"> <i class="socialIconBack fas fa-circle fa-stack-2x"></i><i class="iconTop fab  fa-heart fa-stack-1x"></i></span> by<br>
+		{% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %} <br>
+		{% if site.your_city %} in {{ site.your_city }}{% endif %}
+	</p>
 	{% endif %}
 	<div class="footerIcons">
 
