@@ -10,7 +10,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **Version 3.4.1**
+# **Version 3.4.2**
 Let's learn English with beautiful flashcards and sounds! 500+ Words & Pictures!
 
 #### What's New
