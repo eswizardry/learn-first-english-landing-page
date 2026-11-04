@@ -5,72 +5,70 @@ include_in_header: false
 ---
 
 **Last updated**  
-February 18 2023
+November 4, 2026
 
-# Privacy Policy
+# Privacy Policy — Learn English: Kids flashcards
 
-esWizardry built the Learn First English: Kids vocabulary flashcards app as a Freemium app. This SERVICE is provided by esWizardry at no cost and is intended for use as is.
+This privacy policy applies to the Android and iOS app **Learn English: Kids flashcards** (Google Play package name `com.eswizardry.myfirstword`), referred to below as "the app".
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+The app is developed and published by **CodeDMark**, the developer named on the app's Google Play and App Store listings. In this policy, "CodeDMark", "we", "us" and "our" mean that developer.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+The app is designed for young children learning their first English words, and for the parents who help them. We wrote this policy to explain, in plain words, what the app does and does not do with information.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Learn First English: Kids vocabulary flashcards unless otherwise defined in this Privacy Policy.
+## Summary
 
-**Information Collection and Use**
+- The app has **no accounts and no sign-up**. We do not ask for a child's name, email address, phone number, photo, voice or location.
+- Learning progress and settings are **stored only on the device**.
+- The app shows **child-safe ads** in its free version and uses **Google Analytics for Firebase** to count how features are used. These services are described below.
+- Parents can remove ads with an **in-app purchase**, which is handled by Google Play or the App Store. We never see payment details.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+## Information stored on the device
 
-The app does use third-party services that may collect information used to identify you.
+The app saves your child's progress, favourite words, game scores and app settings on the device using standard app storage. This information is not sent to us. It is deleted when you uninstall the app or clear its data.
 
-Link to the privacy policy of third-party service providers used by the app
+Words are read aloud with the device's own text-to-speech engine. The app does not record or upload audio.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+## Information handled by third-party services
 
-**Log Data**
+The app uses the following services from Google. Each one collects limited technical information so it can work, under its own privacy policy.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+**Google AdMob (ads in the free version)**  
+Every ad request is marked as child-directed (`tagForChildDirectedTreatment`) and as coming from a user under the age of consent (`tagForUnderAgeOfConsent`), with ad content limited to the "G" (general audiences) rating. With these settings Google does not use the information for personalised or interest-based advertising. AdMob may process device and app information such as IP address, device model, operating system version and ad interactions to serve ads, limit how often they are shown and prevent fraud. The app does not use the Android advertising ID. Privacy policy: [Google](https://policies.google.com/privacy), [AdMob and children](https://support.google.com/admob/answer/6223431).
 
-**Cookies**
+**Google Analytics for Firebase (usage statistics)**  
+We use it to understand, in aggregate, which parts of the app are used, for example how often a game is opened, so we can improve the app. It collects app-usage events and device information such as device model, operating system version, app version and country. It is not used for advertising. Privacy policy: [Firebase privacy](https://firebase.google.com/support/privacy).
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**Google Play billing and Apple App Store (in-app purchase)**  
+If a parent buys the ad-free version, the purchase is processed by Google Play or the App Store. We receive only a confirmation that the purchase is valid. We never receive card numbers or other payment details. Purchases are placed behind a parent check in the app.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## Notifications
 
-**Service Providers**
+If you allow notifications, the app can show local reminders to practise. They are scheduled on the device and do not send any information to us. You can turn them off in the app or in the device settings.
 
-I may employ third-party companies and individuals due to the following reasons:
+## Children's privacy
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+The app is made for children, and we follow Google Play's Families Policy and the children's privacy laws that apply to it, including the U.S. Children's Online Privacy Protection Act (COPPA), the EU and UK GDPR, and Thailand's Personal Data Protection Act (PDPA).
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We do not knowingly collect personal information from children. The app has no chat, no social features and no way for a child to share information with other people. The shop, rating the app and sharing it are placed behind a parent check.
 
-**Security**
+If you are a parent or guardian and believe your child's personal information has reached us, please contact us at the address below and we will delete it.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## Data sharing and selling
 
-**Links to Other Sites**
+We do not sell personal information, and we do not share it except with the service providers described above, which process it on our behalf to run the app.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## Data retention and deletion
 
-**Children’s Privacy**
+Information stored on the device stays there until you uninstall the app or clear its data. Information collected by Google services is kept and deleted according to Google's own retention settings. To ask us to delete any information connected to your use of the app, contact us using the details below.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+## Security
 
-**Changes to This Privacy Policy**
+We rely on the security of the device and of the Google and Apple services listed above. No method of storage or transmission is completely secure, but we keep the data the app handles to the minimum it needs.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+## Changes to this policy
 
-This policy is effective as of 2022-10-15
+We may update this policy when the app changes. The "Last updated" date at the top shows when it was last changed. Significant changes will be noted in the app's release notes.
 
-**Contact Us**
+## Contact us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at eswizardry@gmail.com.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions about this privacy policy or the app, contact CodeDMark at **eswizardry@gmail.com**.
